@@ -1,5 +1,4 @@
-# OctoML is making AI fast, accessible, and sustainable
+# OctoAI is making AI fast, easy, and accessible
 
-We believe in the power of AI to improve lives. From providing better healthcare, better transportation, and better education—AI can help in making the world a better place. At OctoML we are working to close the gap between models in training to models in production. A big portion of our work supports and helps the open-source community!
-
-Checkout our flagship open source project [Apache TVM](https://github.com/apache/tvm)!
+OctoAI delivers generative AI infrastructure to run, tune, and scale models that power AI applications. With the fastest foundation models on the market, OctoAI brings together cost savings, ease of use, and the power of open source models.
+You can [sign up and try OctoAI for free.](https://octoai.cloud/)
